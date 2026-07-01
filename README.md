@@ -1,4 +1,4 @@
-## Hey there ✌️
+### Hey there <img width="128" height="128" alt="baby-yoda-soup" src="https://github.com/user-attachments/assets/a69f954d-5d37-47dd-9a99-113f2c26c6e9" />
 
 I'm Sujal, a Data Analysis student based in India.
 
