@@ -2,7 +2,7 @@
 
 I'm Sujal, a Data Analytics student based in India.
 
-I transforming raw data into meaningful insights through data analysis and visualization.
+I transform raw data into meaningful insights through data analysis and visualization.
 
 My primary skills are SQL, Python, and AI Prompting. My favourite tools are MySQL, PyCharm, Tableau, PowerBI, and Sublime Text.
 
