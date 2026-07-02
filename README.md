@@ -14,7 +14,7 @@ I will be sharing some of my projects on this profile. Everything here is built 
 
 - MySQL, SQLite, Python  
 - Tableau and PowerBI for visualisation  
-- PyCharm, Sublime Text, MS Word
+- VSCode, Sublime Text, MS Word
 
 ---
 
