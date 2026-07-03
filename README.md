@@ -10,7 +10,7 @@ I will be sharing some of my projects on this profile. Everything here is built 
 
 ---
 
-### Tools & Tech
+#### Tools & Tech
 
 - MySQL, SQLite, Python  
 - Tableau and PowerBI for visualisation  
@@ -18,7 +18,7 @@ I will be sharing some of my projects on this profile. Everything here is built 
 
 ---
 
-### A Bit About Me
+#### A Bit About Me
 
 - 🐈 I am a cat parent  
 - 🚗 Fan of the automotive  
