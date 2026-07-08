@@ -23,5 +23,4 @@ I will be sharing some of my projects on this profile. Everything here is built 
 - 🐈 I am a cat parent  
 - 🚗 Fan of the automotive  
 - 🏛️ A little bit interested in Economics and Politics  
-- 📖 Berserk is my favourite manga.
-- 🖼️ I also do Graphic Designing as a hobby 
+- 🖼️ I also do Graphic Designing as a hobby
